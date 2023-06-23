@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+
+
+body {
+    background: #0916ac;
+}
+
+.col-rt-12{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.content{
+    border: 10px solid #08b1ff;
+    border-radius: 20px;
+    height: 10rem;
+    width: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.clock {
+    
+    color:#e3ff43;
+    font-size: 100px;
+    font-family: 'Courier Prime', monospace;
+    letter-spacing: 7px;
+}
+.date{
+    margin-top: 1rem;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+}
+.content2{
+    
+    height: 10rem;
+    width: 80rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.myDate {
+    
+    color:  aliceblue;
+    font-size: 40px;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 7px;
+}
